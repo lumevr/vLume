@@ -2,7 +2,7 @@
 
 3D Virtual Reality for Single-Molecule Localization Microscopy
 
-Link to BioRXiv preprint: https://www.biorxiv.org/content/10.1101/2020.01.20.912733v1
+You can find the BioRXiv preprint here: https://www.biorxiv.org/content/10.1101/2020.01.20.912733v1
 
 ## What is it?
 
@@ -65,7 +65,7 @@ Alexander  Spark,  Alexandre  Kitching,  Daniel  Esteban-Ferrer,  Anoushka  Hand
 
 bioRxiv 2020.01.20.912733; doi:  https://doi.org/10.1101/2020.01.20.912733
 
-## Contact
+## If you wish to get in touch
 
 - Alexander Kitching (alexandre.kitching@lumevr.com)
 - Steve F. Lee (corresponding: sl591 @ cam . ac . uk)
